@@ -1,0 +1,115 @@
+{
+  "assets": {
+    "ETH": {"quantity": 15.5, "value": 38750.0, "price": 2500.0},
+    "BTC": {"quantity": 0.85, "value": 57375.0, "price": 67500.0},
+    "USD": {"quantity": 12500.0, "value": 12500.0, "price": 1.0},
+    "SOL": {"quantity": 120.0, "value": 18000.0, "price": 150.0},
+    "ARB": {"quantity": 5000.0, "value": 5500.0, "price": 1.1},
+    "AAVE": {"quantity": 25.0, "value": 2750.0, "price": 110.0},
+    "[NFT]Pudgy Penguins": {"quantity": 2, "value": 45000.0, "price": 22500.0}
+  },
+  "debts": {
+    "USD": {"quantity": 8500.0, "value": 8500.0, "price": 1.0},
+    "ETH": {"quantity": 1.2, "value": 3000.0, "price": 2500.0}
+  },
+  "defi_positions": [
+    {
+      "protocol": "Aave V3",
+      "chain": "eth",
+      "name": "Lending",
+      "address": "0xAbCdEf1234567890AbCdEf1234567890AbCdEf12",
+      "supply": [
+        {"symbol": "ETH", "amount": 5.0, "value": 12500.0},
+        {"symbol": "WBTC", "amount": 0.3, "value": 20250.0}
+      ],
+      "borrow": [
+        {"symbol": "USDC", "amount": 8500.0, "value": 8500.0}
+      ],
+      "detail": {"health_rate": 2.15},
+      "id": "Aave V3:eth:Lending:0xAbCd"
+    },
+    {
+      "protocol": "Aave V3",
+      "chain": "arb",
+      "name": "Lending",
+      "address": "0x9876543210AbCdEf9876543210AbCdEf98765432",
+      "supply": [
+        {"symbol": "ETH", "amount": 2.0, "value": 5000.0}
+      ],
+      "borrow": [
+        {"symbol": "USDC", "amount": 2000.0, "value": 2000.0}
+      ],
+      "detail": {"health_rate": 1.85},
+      "id": "Aave V3:arb:Lending:0x9876"
+    },
+    {
+      "protocol": "Lido",
+      "chain": "eth",
+      "name": "Staking",
+      "address": "0xAbCdEf1234567890AbCdEf1234567890AbCdEf12",
+      "supply": [
+        {"symbol": "stETH", "amount": 8.0, "value": 20000.0}
+      ],
+      "borrow": [],
+      "detail": {"health_rate": null},
+      "id": "Lido:eth:Staking:0xAbCd"
+    },
+    {
+      "protocol": "Kamino",
+      "chain": "solana",
+      "name": "Lending",
+      "address": "So11111111111111111111111111111111111111112",
+      "supply": [
+        {"symbol": "SOL", "amount": 50.0, "value": 7500.0}
+      ],
+      "borrow": [
+        {"symbol": "USDC", "amount": 3000.0, "value": 3000.0}
+      ],
+      "detail": {"health_rate": 1.65, "ltv": 0.4},
+      "id": "Kamino:solana:Lending:So1111"
+    },
+    {
+      "protocol": "Uniswap V3",
+      "chain": "eth",
+      "name": "LP",
+      "address": "0xAbCdEf1234567890AbCdEf1234567890AbCdEf12",
+      "supply": [
+        {"symbol": "ETH", "amount": 3.0, "value": 7500.0},
+        {"symbol": "USDC", "amount": 7500.0, "value": 7500.0}
+      ],
+      "borrow": [],
+      "detail": {"health_rate": null},
+      "id": "Uniswap V3:eth:LP:0xAbCd"
+    }
+  ],
+  "nft_holdings": [
+    {"name": "Pudgy #1234", "collection": "Pudgy Penguins", "chain": "eth", "value": 25000.0},
+    {"name": "Pudgy #5678", "collection": "Pudgy Penguins", "chain": "eth", "value": 20000.0}
+  ],
+  "total_assets": 179875.0,
+  "total_debts": 11500.0,
+  "net_worth": 168375.0,
+  "timestamp": 1710460800.0,
+  "evm_addresses": [
+    "0xAbCdEf1234567890AbCdEf1234567890AbCdEf12",
+    "0x9876543210AbCdEf9876543210AbCdEf98765432"
+  ],
+  "solana_addresses": [
+    "So11111111111111111111111111111111111111112"
+  ],
+  "exchanges": ["binance", "bybit"],
+  "source_breakdown": {
+    "evm": 120000.0,
+    "exchanges": 30875.0,
+    "solana": 18000.0
+  },
+  "exchange_breakdown": {
+    "binance": {"assets": 18000.0, "debts": 0.0},
+    "bybit": {"assets": 12875.0, "debts": 3000.0}
+  },
+  "exchange_health": {
+    "bybit": {"ltv": 0.35, "collateral_usd": 12875.0, "debt_usd": 3000.0}
+  },
+  "wallet_breakdown": [],
+  "debank_units": {"balance": 8500, "today_usage": 150}
+}

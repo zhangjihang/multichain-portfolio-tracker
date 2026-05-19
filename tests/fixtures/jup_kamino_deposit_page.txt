@@ -1,0 +1,269 @@
+Swap
+Terminal
+Perps
+Lend
+Predict
+Portfolio
+More
+Search anything
+/
+Rewards
+Connect
+Dashboard
+Address Book
+
+Real wallet value. Jupiter Mobile.
+
+Jupiter Mobile shows you both holdings and positions natively
+
+Get Jupiter Mobile
+FN
+Wxxx...xxxx
+
+Net Worth
+
+$12,345.67
+
+123.45 SOL
+
++$2,345.67 (+1.23%) since 123 days ago
+
+Holdings PnL
+
+-$2,123.45
+
+Claimable
+
+$45.67
+
+History
+1W
+1M
+3M
+
+Chart Locked
+
+Connect with Jupiter Wallet to access this feature.
+Connect Jup Wallet
+2026-02-15
+2026-03-05
+2026-03-23
+2026-04-10
+2026-04-28
+2026-05-123
+Positions
+Activity
+Airdrop
+Collapse
+
+Wxxx...xxxx - $12,123.45
+
+Bug
+Feedback
+
+Holdings
+
+$12,123.45
+
+Kamino
+
+$12,123.45
+
+Jupiter DAO
+
+$2,123.45
+
+Parcl
+
+<$0.00
+
+Holdings
+
+$12,123.45
+Wallet
+$12,123.45
+Asset	Balance	Price/24hΔ	PnL (all time)
+	Value
+
+
+JLP
+
+8.89%
+	
+6,353
+	
+$0.45
+-1.79%
+	—	
+$12,123.45
+
+
+
+JupSOL
+
+6.20%
+	
+130.27
+	
+$45.67
+-3.28%
+	
+-$345.67
+-1.77%
+	
+$12,123.45
+
+
+
+SOL
+
+	
+1.12
+	
+$45.67
+-3.17%
+	—	
+$45.67
+
+
+
+SHARK
+
+	
+0.32
+	
+$0.45
+-1.87%
+	—	
+<$0.00
+
+
+
+H2W6GM6JZ
+
+	
+7.01
+	
+$0.45
+	—	
+<$0.00
+
+
+
+LARIX
+
+	
+0.11
+	
+$0.45
+	—	
+<$0.00
+
+
+
+SBR
+
+	
+0.00
+	
+$0.00
+	—	
+<$0.00
+
+Kamino
+
+$12,123.45
+Farming
+Deposit
+$12,123.45
+Fees
+$45.67
+$12,123.45
+Pool	Your Liquidity	Claimable Fees	APY
+
+
+PYUSD
+
+	
+$12,345.67
+123 PYUSD
+($12,345.67)
+	—	3.43% APY
+
+
+KMNO
+
+	
+$0.00
+	
+$45.67
+123 KMNO
+($45.67)
+	0.00% APY
+
+
+WLFI
+
+	
+$0.00
+	
+$45.67
+123 WLFI
+($45.67)
+	0.00% APY
+
+
+JTO
+
+	
+$0.00
+	
+$0.45
+123.45 JTO
+($0.45)
+	0.00% APY
+Rewards
+Swap Tips
+$0.45
+Name	Balance	Price/24hΔ	Value
+
+
+SOL
+
+	0.00	
+$45.67
+-3.17%
+	$0.45
+
+Jupiter DAO
+
+$2,123.45
+Staked
+$2,123.45
+Name	Balance	Price/24hΔ	Yield	Value
+
+
+JUP
+
+Locked
+	8,398	
+$0.45
+-5.35%
+	21.32% APY	$2,123.45
+
+Parcl
+
+<$0.00
+Deposit
+<$0.00
+Name	Balance	Price/24hΔ	Value
+
+
+USDC
+
+Unlocked
+	0.00	
+$0.45
+0%
+	<$0.00
+Back to top

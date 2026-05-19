@@ -1,0 +1,186 @@
+Swap
+Terminal
+Perps
+Lend
+Predict
+Portfolio
+More
+Search anything
+/
+Rewards
+Connect
+Dashboard
+Address Book
+
+Real wallet value. Jupiter Mobile.
+
+Jupiter Mobile shows you both holdings and positions natively
+
+Get Jupiter Mobile
+6K
+Wxxx...xxxx
+
+Net Worth
+
+$12,345.67
+
+123.45 SOL
+
++$2,345.67 (+1.23%) since 123 days ago
+
+Holdings PnL
+
++$2,123.45
+
+History
+1W
+1M
+3M
+
+Chart Locked
+
+Connect with Jupiter Wallet to access this feature.
+Connect Jup Wallet
+2026-02-15
+2026-03-05
+2026-03-23
+2026-04-10
+2026-04-28
+2026-05-123
+Positions
+Activity
+Airdrop
+Collapse
+
+Wxxx...xxxx - $12,123.45
+
+Bug
+Feedback
+
+Holdings
+
+$45.67
+
+Kamino
+
+$12,123.45
+
+Jupiter
+
+$2,123.45
+
+Holdings
+
+$45.67
+Wallet
+$45.67
+Asset	Balance	Price/24hΔ	PnL (all time)
+	Value
+
+
+SOL
+
+	
+0.19
+	
+$45.67
+-3.14%
+	—	
+$45.67
+
+
+?
+
+SMOG
+
+	
+0.25
+	
+$0.00
+-1.28%
+	—	
+<$0.00
+
+
+
+USDT
+
+	
+0.00
+	
+$0.45
+0%
+	—	
+<$0.00
+
+
+
+KMNO
+
+	
+0.00
+	
+$0.00
+-3.68%
+	—	
+<$0.00
+
+Kamino
+
+$12,123.45
+Lending
+
+JLP Market
+
+Health
+100%
+$12,123.45
+
+Supplied
+
+$12,123.45
+
+Token	Balance	Price/24hΔ	Yield	Value
+
+
+JLP
+
+123 JLP	
+$0.45
+-1.77%
+	8.89% APY	$12,123.45
+Staked
+$345.67
+Name	Balance	Price/24hΔ	Value
+
+
+KMNO
+
+	9,042	
+$0.00
+-3.68%
+	$345.67
+
+Jupiter
+
+$2,123.45
+Lending
+
+Health
+100%
+$2,123.45
+
+Supplied
+
+$2,123.45
+
+Token	Balance	Price/24hΔ	Yield	Value
+
+
+wSOL
+
+123.45 wSOL	
+$45.67
+-3.14%
+	5.34% APY	$2,123.45
+Back to top

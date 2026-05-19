@@ -1,0 +1,391 @@
+Swap
+Terminal
+Perps
+Lend
+Predict
+Portfolio
+More
+Search anything
+/
+Rewards
+Connect
+Dashboard
+Address Book
+
+Real wallet value. Jupiter Mobile.
+
+Jupiter Mobile shows you both holdings and positions natively
+
+Get Jupiter Mobile
+FN
+Wxxx...xxxx
+
+Net Worth
+
+$12,345.67
+
+123.45 SOL
+
++$2,345.67 (+1.23%) since 123 days ago
+
+Holdings PnL
+
+-$2,123.45
+
+Claimable
+
+$345.67
+
+History
+1W
+1M
+3M
+
+Chart Locked
+
+Connect with Jupiter Wallet to access this feature.
+Connect Jup Wallet
+2026-01-27
+2026-02-14
+2026-03-04
+2026-03-22
+2026-04-09
+2026-04-123
+Positions
+Activity
+Airdrop
+Collapse
+
+Wxxx...xxxx - $12,123.45
+
+Bug
+Feedback
+
+Holdings
+
+$12,123.45
+
+Kamino
+
+$12,123.45
+
+Jupiter DAO
+
+$2,123.45
+
+Jupiter
+
+$345.67
+
+Parcl
+
+<$0.00
+
+Holdings
+
+$12,123.45
+Wallet
+$12,123.45
+Asset	Balance	Price/24hΔ	PnL (all time)
+	Value
+
+
+JLP
+
+9.26%
+	
+6,353
+	
+$0.45
+-0.76%
+	—	
+$12,123.45
+
+
+
+JupSOL
+
+6.09%
+	
+130.27
+	
+$45.67
+-1.41%
+	
+-$345.67
+-2.39%
+	
+$12,123.45
+
+
+
+CARDS
+
+	
+43,519
+	
+$0.45
++43.05%
+	
+-$345.67
+-10.24%
+	
+$2,123.45
+
+
+
+SOL
+
+	
+7.42
+	
+$45.67
+-1.5%
+	—	
+$345.67
+
+
+
+KMNO
+
+	
+10,856
+	
+$0.00
++0.91%
+	—	
+$345.67
+
+
+
+WLFI
+
+	
+201
+	
+$0.45
+-3.01%
+	—	
+$45.67
+
+
+
+FIGHT
+
+	
+1,098
+	
+$0.00
++12.95%
+	—	
+$45.67
+
+
+?
+
+CASH
+
+	
+0.78
+	
+$0.45
++0.01%
+	
+<+$0.00
+0%
+	
+$0.45
+
+
+
+LFNTY
+
+	
+0.07
+	
+$0.45
+0%
+	—	
+$0.45
+
+
+
+SHARK
+
+	
+0.32
+	
+$0.00
++1.16%
+	—	
+<$0.00
+
+
+
+H2W6GM6JZ
+
+	
+7.01
+	
+$0.45
+	—	
+<$0.00
+
+
+
+LARIX
+
+	
+0.11
+	
+$0.45
+-0.46%
+	—	
+<$0.00
+
+
+
+SBR
+
+	
+0.00
+	
+$0.00
+	—	
+<$0.00
+
+Kamino
+
+$12,123.45
+Lending
+
+Main Market
+
+Health
+100%
+$12,123.45
+
+Supplied
+
+$12,123.45
+
+Token	Balance	Price/24hΔ	Yield	Value
+
+
+wSOL
+
+123 wSOL	
+$45.67
+-1.5%
+	4.39% APY	$12,123.45
+Farming
+$45.67
+Asset	Balance	Yield	Value
+
+
+PYUSD
+
+	
+123.45 PYUSD
+	3.22% APY	<$0.00
+Rewards	Balance		Value
+
+
+KMNO
+
+Claimable
+Season 5
+	123 KMNO		$45.67
+
+
+WLFI
+
+Claimable
+	123 WLFI		$45.67
+
+
+JTO
+
+Claimable
+	123.45 JTO		$0.45
+
+
+PYUSD
+
+Claimable
+	123.45 PYUSD		$0.45
+Rewards
+Swap Tips
+$0.45
+Name	Balance	Price/24hΔ	Value
+
+
+SOL
+
+	0.00	
+$45.67
+-1.5%
+	$0.45
+
+Jupiter DAO
+
+$2,123.45
+Staked
+$2,123.45
+Name	Balance	Price/24hΔ	Yield	Value
+
+
+JUP
+
+Locked
+	7,445	
+$0.45
++4.35%
+	21.57% APY	$2,123.45
+
+Jupiter
+
+$345.67
+Rewards
+Active Staking Rewards (ASR) Oct - Dec 2025
+$45.67
+Name	Balance	Price/24hΔ	Value
+
+
+JUP
+
+Claimable
+	491	
+$0.45
++4.35%
+	$45.67
+Rewards
+Active Staking Rewards (ASR) Jan - Mar 2026
+$45.67
+Name	Balance	Price/24hΔ	Value
+
+
+JUP
+
+Claimable
+	462	
+$0.45
++4.35%
+	$45.67
+
+Parcl
+
+<$0.00
+Deposit
+<$0.00
+Name	Balance	Price/24hΔ	Value
+
+
+USDC
+
+Unlocked
+	0.00	
+$0.45
+0%
+	<$0.00
+Back to top

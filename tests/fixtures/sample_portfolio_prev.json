@@ -1,0 +1,29 @@
+{
+  "assets": {
+    "ETH": {"quantity": 15.5, "value": 34100.0, "price": 2200.0},
+    "BTC": {"quantity": 0.85, "value": 51000.0, "price": 60000.0},
+    "USD": {"quantity": 10000.0, "value": 10000.0, "price": 1.0},
+    "SOL": {"quantity": 120.0, "value": 15600.0, "price": 130.0},
+    "ARB": {"quantity": 5000.0, "value": 4500.0, "price": 0.9},
+    "AAVE": {"quantity": 25.0, "value": 2500.0, "price": 100.0}
+  },
+  "debts": {
+    "USD": {"quantity": 8500.0, "value": 8500.0, "price": 1.0},
+    "ETH": {"quantity": 1.2, "value": 2640.0, "price": 2200.0}
+  },
+  "defi_positions": [],
+  "total_assets": 117700.0,
+  "total_debts": 11140.0,
+  "net_worth": 106560.0,
+  "timestamp": 1709856000.0,
+  "source_breakdown": {
+    "evm": 85000.0,
+    "exchanges": 20100.0,
+    "solana": 15600.0
+  },
+  "exchange_breakdown": {
+    "binance": {"assets": 12000.0, "debts": 0.0},
+    "bybit": {"assets": 8100.0, "debts": 2500.0}
+  },
+  "exchange_health": {}
+}

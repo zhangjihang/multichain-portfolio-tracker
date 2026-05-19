@@ -1,0 +1,53 @@
+# Portfolio Tracker Configuration Example
+# Copy this file to config.yaml and fill in your addresses/credentials
+
+# EVM wallet addresses to track
+evm_addresses:
+  - "0x..." # Your Ethereum/EVM address
+
+# Solana wallet addresses to track
+solana_addresses:
+  - "..." # Your Solana address
+
+# Chains to scan for balances (used when aggregators are disabled)
+enabled_chains:
+  - ethereum
+  # - arbitrum
+  # - optimism
+  # - polygon
+  # - base
+  # - solana
+
+# Data Aggregators
+aggregators:
+  # DeBank for EVM chains - covers all DeFi protocols (56+ chains)
+  # Get API key at: https://cloud.debank.com/
+  use_debank: false
+  debank_api_key_env: DEBANK_API_KEY
+
+  # Jupiter for Solana
+  # Jupiter Price API: https://dev.jup.ag/api-reference
+  use_jupiter: false
+  jupiter_api_key_env: JUPITER_API_KEY
+
+# Exchange configurations
+# API keys should be set as environment variables
+exchanges:
+  - name: binance
+    api_key_env: BINANCE_API_KEY
+    api_secret_env: BINANCE_API_SECRET
+
+# Pricing configuration
+pricing:
+  provider_priority:
+    - coingecko
+  cache_ttl: 300 # seconds
+
+# Discord webhook for pushing reports and alerts
+# Create at: Server Settings > Integrations > Webhooks
+discord_webhook_url: https://discord.com/api/webhooks/...
+
+# Report settings
+report:
+  output_dir: ./reports
+  top_assets_n: 10
